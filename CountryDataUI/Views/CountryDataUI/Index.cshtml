@@ -1,0 +1,46 @@
+﻿@model CountryModel.MasterModel;
+
+
+
+<div class="container">
+    <div class="row mt-5">
+        <div class="col-md-10 ">
+
+            <input type="hidden" id="hcountry_id" class="abc" />
+
+            <table class="table table-bordered table-hover table-striped  border-2 rounded " style=" box-shadow: 0 0 20px rgba(0,0,0,0.15);">
+                <thead class="" style="background-color: #009879; font-family: 'calibri',sans-serif;
+                    border-radius: 5px 5px 0 0;">
+                    <tr>
+                        <th>Country ID</th>
+                        <th>Country Name</th>
+                        <th>Created By</th>
+                        <th>Action</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CModel.c_List)
+
+                    {
+                        <tr>
+                            <td>@item.country_id</td>
+                            <td>@item.country_name</td>
+                            <td>@item.created_by</td>
+                            <td>
+                                <a asp-controller="Master" asp-action="AddCountry" asp-route-country_id="@item.country_id"
+                                   class="btn btn-outline-primary btn-sm" role="button">Edit</a>
+                                <a class="btn btn-danger btnDelete" data-id="@item.country_id" data-toggle="modal" data-target="#confirm-delete">
+                                    Delete
+                                </a>
+
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+
+        </div>
+    </div>
+</div>

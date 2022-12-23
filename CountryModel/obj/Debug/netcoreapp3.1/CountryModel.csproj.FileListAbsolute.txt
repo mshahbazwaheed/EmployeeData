@@ -1,0 +1,10 @@
+D:\Programming Projects\Country Data\CountryModel\bin\Debug\netcoreapp3.1\CountryModel.deps.json
+D:\Programming Projects\Country Data\CountryModel\bin\Debug\netcoreapp3.1\CountryModel.dll
+D:\Programming Projects\Country Data\CountryModel\bin\Debug\netcoreapp3.1\CountryModel.pdb
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.csproj.AssemblyReference.cache
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.AssemblyInfoInputs.cache
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.AssemblyInfo.cs
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.dll
+D:\Programming Projects\Country Data\CountryModel\obj\Debug\netcoreapp3.1\CountryModel.pdb

@@ -1,0 +1,15 @@
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\CountryRepository.deps.json
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\CountryRepository.dll
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\CountryRepository.pdb
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\CountryModel.dll
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\DatabaseFactory.dll
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\DatabaseFactory.pdb
+D:\Programming Projects\Country Data\CountryRepository\bin\Debug\netcoreapp3.1\CountryModel.pdb
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.csproj.AssemblyReference.cache
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.AssemblyInfoInputs.cache
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.AssemblyInfo.cs
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.csproj.CopyComplete
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.dll
+D:\Programming Projects\Country Data\CountryRepository\obj\Debug\netcoreapp3.1\CountryRepository.pdb

@@ -1,0 +1,25 @@
+﻿@model CountryModel.CList;
+@{
+    ViewData["Title"] = "AddCountry";
+}
+
+<h1>AddCountry</h1>
+@using (Html.BeginForm("AddCountry", "CountryDataUI", FormMethod.Post))
+{
+
+    <label class="col-form-label">Country ID</label>
+    <input type="text" class="form-control" name="country_id" />
+    <br />
+    <label class="col-form-label">Country Name</label>
+    <input type="text" class="form-control" name="country_name" />
+    <br />
+    <label class="col-form-label">Created By</label>
+    <input type="text" class="form-control" name="created_by" />
+    <br />
+
+    <input type="submit" class="btn btn-primary" />
+   <div> @Html.Raw(ViewData["SuccessMessage"])</div>
+}
+
+
+
